@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\YMYP1\\09.NET\\Log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\filters\\logfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\filters\\logfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|c:\\ymyp1\\09.net\\log\\log.webapi\\log.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E3DA58-A798-47F5-8F3B-C0AF991FEA4F}|Log.WebAPI\\Log.WebAPI.csproj|solutionrelative:log.webapi\\log.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Log.WebAPI\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:26:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogFilterAttribute.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Filters\\LogFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Filters\\LogFilterAttribute.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Filters\\LogFilterAttribute.cs",
+              "RelativeToolTip": "Log.WebAPI\\Filters\\LogFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:20:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Log.WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:16:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Log.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:13:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Program.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Program.cs",
+              "RelativeToolTip": "Log.WebAPI\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:04:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "Log.WebAPI\\Services\\JwtProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:51:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Log.WebAPI",
+              "DocumentMoniker": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Log.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Log.WebAPI\\Log.WebAPI.csproj",
+              "ToolTip": "C:\\YMYP1\\09.NET\\Log\\Log.WebAPI\\Log.WebAPI.csproj",
+              "RelativeToolTip": "Log.WebAPI\\Log.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T18:49:34.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
